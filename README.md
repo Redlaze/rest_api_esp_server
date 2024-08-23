@@ -30,7 +30,7 @@
 }
 ```
 ### Example POST-request:
-#### URL adress: www.{your_server_name}.com/statsus
+#### URL adress: www.{your_server_name}.com/status
 ```json
 {
   "status": "RecieveDataOK"
